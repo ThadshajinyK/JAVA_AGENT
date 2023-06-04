@@ -46,3 +46,11 @@ public class JavaAgent2 {
         }
     }
 }
+
+/**
+ * thread la ippa run aahuthu.
+ * next atha apdiye naanka db ku connect pannanum. send panni paakanum
+ * so athuku naanka backend sariya endu paathu rest api end points ellam create pannaum
+ * postman la poddu check pannaum
+ *
+ */
