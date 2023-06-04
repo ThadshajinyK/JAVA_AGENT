@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java For springboot.iml" filepath="$PROJECT_DIR$/.idea/Java For springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sprinboot-monitor-java/sprinboot-monitor-java.iml" filepath="$PROJECT_DIR$/sprinboot-monitor-java/sprinboot-monitor-java.iml" />
+    </modules>
+  </component>
+</project>
